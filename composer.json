@@ -1,0 +1,12 @@
+{
+    "name": "redecs/php-test-package",
+    "description": "A demo composer package",
+    "authors": [
+        {
+            "name": "Mihai Nica",
+            "email": "mihai@redecs.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
